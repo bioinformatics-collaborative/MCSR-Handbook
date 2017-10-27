@@ -10,7 +10,7 @@ MCSR Management maintains a list of active grant-funded research projects for pe
 
 ### How do I get an account?
 
-Submit this [form](http://www.mcsr.olemiss.edu/info.php). Register with a university or school email address. After you submit the form, you will receive an email confirming your submission and soon after confirming the creation of your account with password information.
+Submit this [form](http://cypress.mcsr.olemiss.edu/info.php). Register with a university or school email address. After you submit the form, you will receive an email confirming your submission and soon after confirming the creation of your account with password information.
 Accounts that remain inactive for six months will be automatically restricted, which will prevent you from logging in. Restricted accounts will be preserved for a few months, and if unclaimed, may be then be deleted from the system. 
 It is your responsibility to backup all important files in your accounts and keep your disk usage to a reasonable minimum. 
 
